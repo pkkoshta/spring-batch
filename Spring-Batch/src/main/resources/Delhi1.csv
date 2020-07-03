@@ -1,0 +1,5 @@
+officename,pincode,officetype,deliverystatus,divisionname,regionname,circlename,taluk,districtname,statename,telephone,relatedsuboffice,relatedheadoffice
+Hyd,482003,main,kosta,fk,kf,s,s,d,d,dd,Nadd,dd
+Hazrat Nizamuddin,110013,S.O.,Delivery,New Delhi,Delhi,Delhi,NewDelhi,DELHI,DELHI,011-24358,NA,Lodi Road H.O
+Dhanwantri,582003,B.O.,NA,New Delhi,Delhi,Delhi,NewDelhi,DELHI,DELHI,0112-2545,NA,Tewar
+Hazrat Nizamuddin,482001,S.O.,NA,New Delhi,Delhi,Delhi,NewDelhi,DELHI,DELHI,0113-22455,Yes,Lodi Road H.O
